@@ -5,12 +5,20 @@
             "zh_cn"
         ],
         "exclusionMods": [],
-        "exclusionNamespaces": []
+        "exclusionNamespaces": [
+            "cataclysm",
+            "alexscaves",
+            "hexcasting",
+            "biomancy",
+            "create-sound-of-steam",
+            "occultism"
+        ]
     },
     "floating": {
         "inclusionDomains": [
             "font",
-            "textures"
+            "textures",
+            "gui"
         ],
         "exclusionDomains": [],
         "exclusionPaths": [
